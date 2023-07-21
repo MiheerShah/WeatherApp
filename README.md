@@ -26,21 +26,6 @@ CSS: Styling and design of the app interface.
 JavaScript: Fetching data from the weather API and updating the UI.
 Weather API
 The app uses a weather API to obtain real-time weather data for the specified location. The API key is required to access the data. Ensure that the API key is correctly set in the JavaScript file (script.js) before running the app. For testing purposes, you can use a free weather API, but it's recommended to use a paid and more reliable API for a production environment.
-
-Directory Structure
-The project directory is structured as follows:
-
-arduino
-Copy code
-weather-app/
-  ├── index.html
-  ├── css/
-  │    └── style.css
-  ├── js/
-  │    └── script.js
-  └── assets/
-       └── images
-
        
 Contributing
 Contributions to the Weather App are welcome! If you find any issues or want to improve the app, feel free to submit a pull request. Please ensure that your changes are well-documented and thoroughly tested.
