@@ -33,7 +33,7 @@ The app uses a weather API to obtain real-time weather data for the specified lo
 Contributing
 Contributions to the Weather App are welcome! If you find any issues or want to improve the app, feel free to submit a pull request. Please ensure that your changes are well-documented and thoroughly tested.
 
-LIVE DEMO:- https://main--tubular-figolla-099348.netlify.app/
+LIVE DEMO:- https://weather-app-miheer-shah.netlify.app/
 
 
 
